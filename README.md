@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/Screenshot.png)
 
 
-- Live Site URL: [Add live site URL here](https://amkolpin.github.io/QR-Code-Component-Solution-Frontend-Mentor/)
+- Live Site URL: [Site Link](https://amkolpin.github.io/QR-Code-Component-Solution-Frontend-Mentor/)
 
 ## My process
 
